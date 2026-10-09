@@ -23,8 +23,6 @@ Aplikasi computer vision sederhana untuk mengklasifikasikan kondisi bermasker at
     └── mask_detector_model.h5
 ```
 
-Dataset tidak disertakan dalam Git karena sumber dan izin redistribusinya perlu dipastikan terlebih dahulu. Folder lokal `dataset/` diabaikan oleh Git. Untuk melatih ulang model, siapkan dataset dengan struktur berikut setelah memastikan dataset tersebut boleh digunakan:
-
 ```text
 dataset/
 ├── with_mask/
