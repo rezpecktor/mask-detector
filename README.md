@@ -1,6 +1,6 @@
 # Mask Detector
 
-Aplikasi computer vision sederhana untuk mengklasifikasikan kondisi bermasker atau tanpa masker dari kamera. Proyek ini dibuat sebagai proyek pembelajaran dan portofolio; hasilnya belum divalidasi untuk penggunaan keselamatan atau produksi.
+Aplikasi computer vision sederhana untuk mengklasifikasikan kondisi bermasker atau tanpa masker dari kamera. Proyek ini dibuat sebagai proyek pembelajaran dan portofolio; hasilnya belum divalidasi untuk penggunaan keselamatan atau produksi. Serta terdapat alarm suara jika kondisi terpenuhi "Masker terpakai, silahkan masuk" jika tidak memakai masker bunyi alarm "Ruangan ini beracun, demi keamanan harap gunakan masker anda"
 
 ## Fitur
 
