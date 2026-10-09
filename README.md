@@ -68,13 +68,5 @@ python train_model.py
 
 Model hasil training disimpan ke `model/mask_detector_model.h5`. Training memakai bobot awal ImageNet dari MobileNetV2; unduhan bobot mungkin diperlukan saat pertama kali dijalankan.
 
-## Catatan dan batasan
 
-- Aplikasi mengklasifikasikan seluruh frame kamera dan belum mendeteksi atau memotong wajah secara terpisah.
-- Preprocessing MobileNetV2 dan kualitas model perlu dievaluasi lebih lanjut sebelum menyatakan akurasi atau menggunakannya untuk keputusan penting.
-- Hasil dapat dipengaruhi pencahayaan, posisi wajah, kamera, dan data training.
-- Dataset, bobot pretrained, serta audio dapat memiliki lisensi dan ketentuan atribusi tersendiri. Periksa ketentuannya sebelum mendistribusikan proyek.
-
-## Lisensi
-
-Lisensi proyek belum ditentukan. Tambahkan berkas lisensi setelah memastikan hak atas kode dan aset yang disertakan.
+## Terimakasih
